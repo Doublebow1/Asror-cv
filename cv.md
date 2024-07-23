@@ -16,9 +16,9 @@
 
 ## Summary
 
-I am intersted in Front-end developing. In school I was diligent student, but I decidea to brek the frame and web-developing was best path to my dream. There I can do anything I want: make new ideas, solve problems and etc
+I am intersted in Front-end developing. In school I was diligent student, but I decided to break the frame and web-developing was the best path to my dream. There I can do anything I want: make new ideas, solve problems and etc
 
-And now my goal is to become front-end developer, who can do interactive web-sites ...
+And now my goal is to become front-end developer, who can make interactive web-sites ...
 
 Self-motivated, Disceplined, Ready to learn.
 
@@ -52,15 +52,15 @@ Self-motivated, Disceplined, Ready to learn.
 
 ## Experience (student projects)
 
-* [Burger shop](https://github.com/Doublebow1/Burger) made in ITlogia intensive
+* [Burger shop](https://doublebow1.github.io/Burger/) made in IT-logia intensive
 * [Online course](https://github.com/Doublebow1/grok) made with my friend [Bryan](https://github.com/bobov1190)
 
 ## Education
 
-* Acdemic Lyceum Tutin Politechnic Univercity in Tashkrnt
+* Acdemic Lyceum Turin Politechnic Univercity in Tashkrnt
 * Online learning (youtube, online courses, ...)
 * [RSSchool](https://rs.school/) JS2024Q1  
 
 ## English
 
-My english level is between A2+ and B1
+My english level is B2 (by CEFR)
